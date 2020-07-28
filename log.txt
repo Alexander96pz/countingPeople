@@ -1,0 +1,6 @@
+Id=1  Suben=0 Bajan=1
+Id=2  Suben=0 Bajan=2
+Id=3  Suben=1 Bajan=2
+Id=4  Suben=1 Bajan=3
+Id=5  Suben=1 Bajan=4
+Id=6  Suben=2 Bajan=4
